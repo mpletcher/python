@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Simple input syetem in Python
+# Simple input system in Python
 # Author: Marcos Pletcher
 
 # import module sys
